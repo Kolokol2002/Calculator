@@ -80,4 +80,4 @@ print(calories_calculator.get_calories_remained())
 
 лалал
 
-
+ще шос
