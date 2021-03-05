@@ -78,4 +78,6 @@ calories_calculator.add_record(Record(600, 'снікерс'))
 
 print(calories_calculator.get_calories_remained())
 
+лалал
+
 
